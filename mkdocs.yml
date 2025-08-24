@@ -1,0 +1,45 @@
+site_name: Stream Lore Wiki
+site_description: A community-maintained wiki for our Twitch stream lore — characters, chapters, events, memes, and timeline.
+site_url: https://<your-username>.github.io/<your-repo>
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - tags
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+nav:
+  - Home: index.md
+  - Characters:
+      - characters/index.md
+  - Chapters:
+      - chapters/index.md
+  - Events:
+      - events/index.md
+  - Memes: memes/index.md
+  - Timeline: timeline.md
+  - Glossary: glossary.md
+  - Contributing: contributing.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+  - tables
+  - md_in_html
+plugins:
+  - search
+  - tags
+extra:
+  social:
+    - icon: fontawesome/brands/twitch
+      link: https://twitch.tv/<your-channel>
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/<your-invite>
