@@ -1,6 +1,6 @@
 site_name: Stream Lore Wiki
 site_description: A community-maintained wiki for our Twitch stream lore — characters, chapters, events, memes, and timeline.
-site_url: https://<your-username>.github.io/<your-repo>
+site_url: https://meekelxdd-prog.github.io/stream-lore-wiki
 theme:
   name: material
   features:
