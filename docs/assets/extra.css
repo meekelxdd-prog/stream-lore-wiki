@@ -4,3 +4,22 @@
     line-height: 1.1 !important;
     text-align: center;
 }
+/* Bigger size only for the "Welcome to the" part */
+.welcome-text {
+    font-size: 4rem !important;
+    font-weight: 700;
+}
+
+/* Make the Wiki text slightly smaller for balance */
+.wiki-text {
+    font-size: 3.5rem !important;
+}
+
+/* Make the header flex so it aligns cleanly */
+.header-flex {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 0.25em;
+    line-height: 1.05;
+}
