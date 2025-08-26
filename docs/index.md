@@ -1,4 +1,4 @@
-<h1 style="font-size:1em; text-align:center; line-height:1.1;">
+<h1 style="font-size:4rem; text-align:center; line-height:1.1;">
   Welcome to the
   <img src="assets/Wiki Header.png" alt="NAUMMD"
        style="height:2.6em; position:relative; top:.35em; margin:0 .25em;">
