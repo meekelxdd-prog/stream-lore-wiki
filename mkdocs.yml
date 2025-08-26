@@ -43,3 +43,5 @@ extra:
       link: https://twitch.tv/<your-channel>
     - icon: fontawesome/brands/discord
       link: https://discord.gg/<your-invite>
+extra_css:
+  - assets/extra.css
