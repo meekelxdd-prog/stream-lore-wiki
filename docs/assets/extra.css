@@ -1,0 +1,6 @@
+/* Make the main homepage heading bigger */
+.md-content h1:first-of-type {
+    font-size: 4.5rem !important;  /* Default ~2.25rem, doubling it */
+    line-height: 1.1 !important;
+    text-align: center;
+}
