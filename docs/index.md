@@ -1,8 +1,9 @@
-# Welcome to the
-
-<p align="center">
-  <img src="assets/Wiki-Header.png" alt="NAUMMD Logo" width="400"/>
-</p>
+<h1 style="font-size:1em; text-align:center; line-height:1.1;">
+  Welcome to the
+  <img src="assets/Wiki Header.png" alt="NAUMMD"
+       style="height:2.6em; position:relative; top:.35em; margin:0 .25em;">
+  Wiki!
+</h1>
 
 ## About this Wiki
 This is the community-driven wiki for **NAUMMD**.  
